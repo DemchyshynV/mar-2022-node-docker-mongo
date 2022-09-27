@@ -1,0 +1,15 @@
+{
+  "name": "mar-2022-docker-mongo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongoose": "^6.6.2"
+  },
+  "author": "",
+  "license": "ISC"
+}
